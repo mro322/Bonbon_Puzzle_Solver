@@ -20,6 +20,7 @@ Step 2: Optimize sequence of given solution
 
 
 Solution
+
 ![solving_gif](https://user-images.githubusercontent.com/25695392/215332423-400f95f9-d228-4e6c-956c-3ba151db29cc.gif)
 
 
