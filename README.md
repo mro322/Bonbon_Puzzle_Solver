@@ -1,4 +1,4 @@
-# Bonbon
+# Bonbon Puzzle Solver
 
 Initial situation
 ![initalposition1](https://user-images.githubusercontent.com/25695392/215332442-7c8c3681-014c-4262-a795-ec0e3e672027.jpg)
